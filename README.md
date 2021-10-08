@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Alessandro Viana 🙋🏻‍♂️
 
-- 👨🏻‍🎓 Estudando - PHP e JAVASCRIPT
+- 👨🏻‍🎓 Estudando - PHP, JAVASCRIPT e JQUERY
 - 👩🏻‍💻 Habilidades - PHP, MySQL e GIT
 - 👩🏻‍💻 Habilidades - HTML, HTML5, CSS, CSS3 e BOOTSTRAP
 
